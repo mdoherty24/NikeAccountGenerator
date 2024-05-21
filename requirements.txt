@@ -4,7 +4,7 @@ click==6.7
 idna==2.6
 names==0.3.0
 numpy==1.22.2
-requests==2.20
+requests==2.32.0
 ua-parser==0.15.0
 urllib3==1.26.5
 user-agents==1.1.0
